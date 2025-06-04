@@ -1,0 +1,17 @@
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\bin\Debug\receptek.exe.config
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\bin\Debug\receptek.exe
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\bin\Debug\receptek.pdb
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\bin\Debug\Newtonsoft.Json.dll
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\bin\Debug\Newtonsoft.Json.xml
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.csproj.AssemblyReference.cache
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\MainWindow.baml
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\MainWindow.g.cs
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\App.g.cs
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek_MarkupCompile.cache
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.g.resources
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.Properties.Resources.resources
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.csproj.GenerateResource.cache
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.csproj.CoreCompileInputs.cache
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.csproj.Up2Date
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.exe
+C:\Users\toth.levente\Desktop\het22025majus-master\receptek\obj\Debug\receptek.pdb
